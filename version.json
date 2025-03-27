@@ -5,7 +5,10 @@
         "Announcement system with RGB effects",
         "Position saving system",
         "Framework auto-detection (ESX/QBCore)",
-        "Custom notification sounds"
+        "Custom notification sounds",
+        "Added ox_inventory support",
+        "Added multi-language support",
+        "Added digital counter UI"
     ],
     "download": "https://keymaster.fivem.net/login?return_url=/"
 } 
